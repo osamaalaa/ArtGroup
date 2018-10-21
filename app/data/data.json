@@ -1,0 +1,24 @@
+{
+  "speakers": [{
+    "title" : "Art in Full Bloom",
+    "name": "Mahmoud Mokhtar",
+    "shortname" : "Lorenzo_Garcia",
+    "summary" : "Drawing and painting flowers may seem like a first-year art student's assignment, but Mahmoud brings depth, shadows, light, form and color to new heights with his unique and revolutionary technique of painting on canvas with ceramic glaze. This session is sure to be a hit with mixed media buffs.",
+    "description": "<p>Mahmoud was born in Alexandria, but grew up in It after his mother immigrated to Los Angeles when he was a year old. His mother worked as a seamstress in the Fashion District and brought home scrap materials for Mahmoud to create his early mixed media art. From that point on, Lorenzo became hooked on creating art from scrap metals, fabrics, wood, canvas, and many others. During his junior year at Bischon Art School in Los Angeles, he perfected his own proprietary method of painting on canvas with ceramic glaze, which he will demonstrate on Monday in his session, 'Art in Full Bloom'.</p><p>Lorenzo paints with an extraordinary amount of color, and prefers to create art centered around nature, animals, and science. Now in his senior year at Bischon, Lorenzo has been creating mixed media totem poles made from old telephone poles, and other recycled materials, and is already planning his next new technique that will likely inspire a trend for years to come.</p>",
+    "artwork": ["Lorenzo_Garcia_01_tn.jpg", "Lorenzo_Garcia_02_tn.jpg", "Lorenzo_Garcia_03_tn.jpg", "Lorenzo_Garcia_04_tn.jpg"]
+  },{
+    "title" : "Deep Sea Wonders",
+    "name": "Fathi Hassan",
+    "shortname" : "Hillary_Goldwynn",
+    "summary": "was born in cairo in 1957 to Nubian and egyptian parents. Since graduating in 1984, he has lived in Le Marche, Italy, and currently works between Italy and Great Britain.",
+    "description": "<p>in his drawings, paintings, sculptures and installations, Hassan experiments with the written and spoken word, exploring the theme of ancient languages erased by colonial domination. With invented, Kufic-inspired scripts, he plays with the symbols, textures and calligraphy of his Nubian heritage to explore the space between graphic symbolism and literal meaning in vibrant colours and collage.</p>",
+    "artwork" : ["Hillary_Goldwynn_01_tn.jpg" , "Hillary_Goldwynn_02_tn.jpg" , "Hillary_Goldwynn_03_tn.jpg" , "Hillary_Goldwynn_04_tn.jpg" , "Hillary_Goldwynn_05_tn.jpg" , "Hillary_Goldwynn_06_tn.jpg" , "Hillary_Goldwynn_07_tn.jpg"]
+  },{
+    "title" : "The Art of Abstract",
+    "name": "Aya Tarek",
+    "shortname" : "Riley_Rewington",
+    "summary": "Born in Alexandria, Egypt in 1989, Aya Tarek is a painter, street artist and illustrator with an exciting portfolio of diverse art projects, feature films and art collaborations in countries ranging from Sao Paolo to Frankfurt.",
+    "description": "<p>Her work explores the different interchanges within modes of urban communication and the dynamic of a public space. Using a vibrant, comic derived aesthetic, and often working through site-specific murals, she aims to trigger a humorous sense of controversy, investigating different ideas pertaining to the different public contexts. </p>",
+    "artwork" : ["Riley_Rewington_01_tn.jpg","Riley_Rewington_02_tn.jpg","Riley_Rewington_03_tn.jpg","Riley_Rewington_04_tn.jpg","Riley_Rewington_05_tn.jpg","Riley_Rewington_06_tn.jpg"]
+  }]
+}
